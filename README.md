@@ -190,7 +190,7 @@ listen stats
 - 통계정보를 활성화 하기 위해서 stats enable 라고 지정했다. 
 - 통계 접속 uri는 /haproxy_stats 이다. 
 - 접속시 id/pwd를 지정하기 위해서 auth 속성을 지정했다. 
-- 통계 페이지에 대해서 상세정보는 [다음](https://www.haproxy.com/blog/exploring-the-haproxy-stats-page/)을 참조하자. 
+- 통계 페이지에 대해 상세정보는 [다음](https://www.haproxy.com/blog/exploring-the-haproxy-stats-page/)을 참조하자. 
 
 <br/>
 
